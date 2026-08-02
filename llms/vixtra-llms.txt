@@ -1,0 +1,50 @@
+# Vixtra
+
+> Vixtra é o Trade Banking do importador brasileiro. Somos pioneiros no financiamento para importadores, utilizando a carga em trânsito como garantia. Oferecemos Crédito Flex, Crédito Pré, Câmbio Fácil e gestão financeira completa do comércio exterior em uma única plataforma digital.
+
+A Vixtra (VIXTRA Tecnologia e Serviços Financeiros LTDA., CNPJ 43.443.444/0001-04) é uma fintech brasileira fundada em julho de 2021, sediada em São Paulo, com mais de 60 colaboradores. Conta com US$ 36M em funding (US$ 30M debt + US$ 6M seed extension) liderado por QED Investors, Valor Capital Group, Endeavor Promessas, NXTP Ventures, Actyus e BluStone. Opera como correspondente bancário da BMP Money Plus SCD e correspondente cambial da Ebury Banco de Câmbio S/A.
+
+## Produtos
+
+- [Crédito Flex](https://vixtra.com/credito-flex/): linha de crédito rotativa para importadores com aprovação rápida, prazos flexíveis e a carga em trânsito como garantia.
+- [Crédito Pré](https://vixtra.com/credito-pre/): financiamento pré-embarque para adiantar pagamentos a fornecedores no exterior, antes da chegada da mercadoria ao Brasil.
+- [Câmbio Fácil](https://vixtra.com/cambio-facil/): fechamento de câmbio comercial 100% digital com taxas competitivas e liquidação rápida para pagamentos de importação.
+- [Trade Banking](https://vixtra.com/trade-banking/): plataforma unificada que reúne crédito, câmbio, garantias, gestão de operações e fluxo de caixa do comércio exterior.
+- [Stablecoin Vixtra](https://vixtra.com/stable-coin/): pagamentos internacionais via stablecoin com agilidade, baixo custo e conformidade regulatória.
+
+## Páginas institucionais
+
+- [Quem somos](https://vixtra.com/quem-somos/): time, missão, visão e história da Vixtra.
+- [Seja parceiro](https://vixtra.com/seja-parceiro/): programa de parceiros para despachantes aduaneiros e consultores de comércio exterior.
+- [Contato](https://vixtra.com/contato/): fale com um especialista em trade finance.
+- [Política de Privacidade](https://vixtra.com/politica-de-privacidade/): tratamento de dados em conformidade com a LGPD.
+
+## Conteúdo e materiais
+
+- [Blog Vixtra](https://vixtra.com/blog/): insights, análises e tendências sobre comércio exterior, importação, trade finance e câmbio.
+- [eBooks Vixtra](https://vixtra.com/ebooks/): biblioteca gratuita de eBooks, guias e relatórios setoriais para importadores.
+
+### eBooks em destaque
+
+- [Trade Finance para Importadores](https://vixtra.com/ebooks/trade-finance/): guia definitivo sobre FINIMP, ACC, ACE e estratégias de financiamento.
+- [Proteção Cambial para Importadores](https://vixtra.com/ebooks/protecao-cambial/): estratégias de hedge, NDF e contratos a termo.
+- [5 Insights para o Importador Moderno](https://vixtra.com/ebooks/5-insights-importador/): estratégia, financiamento, câmbio e operação em 2025.
+- [Importação de Eletrônicos 2025](https://vixtra.com/ebooks/importacao-eletronicos-2025/): análise setorial do mercado brasileiro de eletrônicos.
+- [Importação de Pneus 2025](https://vixtra.com/ebooks/importacao-pneus-2025/): análise setorial do mercado brasileiro de pneus.
+- [Importação de Plásticos 2025](https://vixtra.com/ebooks/importacao-plasticos-2025/): panorama da importação de plásticos.
+- [Importação de Borracha](https://vixtra.com/ebooks/importacao-borracha/): cadeia produtiva, origens e regulamentações.
+- [Importação de Drones](https://vixtra.com/ebooks/importacao-drones/): regulamentação ANAC e oportunidades.
+- [Setor de Plásticos no Brasil](https://vixtra.com/ebooks/importacao-plasticos-setor/): análise aprofundada da indústria.
+- [Case Japura Pneus](https://vixtra.com/ebooks/case-japura-pneus/): estudo de caso de crescimento 3x com Vixtra.
+- [Retrospectiva 2023 do Comércio Exterior](https://vixtra.com/ebooks/retrospectiva-2023/): balança comercial e tendências.
+
+## Versão em inglês
+
+Cada uma das URLs acima possui uma versão em inglês prefixada com `/en/`. Exemplo: `https://vixtra.com/en/trade-banking/`. O sitemap completo está em https://vixtra.com/sitemap.xml.
+
+## Contato
+
+- Site oficial: https://vixtra.com
+- LinkedIn: https://www.linkedin.com/company/vixtra
+- Instagram: https://www.instagram.com/vixtraoficial
+- Endereço: Rua Dr. Renato Paes de Barros, 33, 13º andar — São Paulo / SP — 04530-000 — Brasil

@@ -1,8 +1,31 @@
 aid: vixtra
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/vixtra.png
 name: Vixtra
-description: 'Vixtra is a company surfaced as a portfolio company of qed-investors and added to the API
-  Evangelist network as a stub for enrichment. Sector: payments. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: 'Vixtra (VIXTRA Tecnologia e Serviços Financeiros LTDA., CNPJ 43.443.444/0001-04)
+  is a Brazilian trade-finance fintech founded in July 2021 and headquartered in São
+  Paulo, positioning itself as "the Trade Banking of the Brazilian importer." It pioneers
+  financing for importers using in-transit maritime cargo as collateral, and delivers
+  credit, foreign exchange, guarantees, and cash-flow management for foreign trade
+  from a single digital platform. Its products include Crédito Flex (revolving working-capital
+  credit), Crédito Pré (pre-shipment import financing), Câmbio Fácil (100% digital
+  commercial FX), Trade Banking (the unified operations platform), and a Vixtra stablecoin
+  for cross-border payments. Vixtra operates as a banking correspondent of BMP Money
+  Plus SCD and an FX correspondent of Ebury Banco de Câmbio, has raised roughly US$36M
+  (US$30M debt + US$6M seed extension) led by QED Investors with Valor Capital Group,
+  Endeavor Promessas, NXTP Ventures, Actyus, and BluStone, and processes data in compliance
+  with Brazil''s LGPD. No public developer portal or API is currently published; the
+  api.vixtra.com host backs the customer application and returns 403 to anonymous callers.'
 url: https://raw.githubusercontent.com/api-evangelist/vixtra/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +35,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Payments
+- Trade Finance
+- Fintech
+- Brazil
+- Foreign Exchange
+- Import Financing
+- Credit
+- Stablecoin
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +55,22 @@ maintainers:
 common:
 - type: Website
   url: https://www.vixtra.com/
+- type: Blog
+  url: https://vixtra.com/blog/
+- type: PrivacyPolicy
+  url: https://vixtra.com/politica-de-privacidade/
+- type: SignUp
+  url: https://portal.vixtra.com/cadastro
+- type: Login
+  url: https://portal.vixtra.com/login
+- type: LinkedIn
+  url: https://www.linkedin.com/company/vixtra
+- type: LLMsTxt
+  url: llms/vixtra-llms.txt
+- type: DomainSecurity
+  url: security/vixtra-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1
